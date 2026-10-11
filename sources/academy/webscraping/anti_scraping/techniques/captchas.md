@@ -1,4 +1,4 @@
----
+apify-docs/souces/academy/we scraping/anti_scraping/5echniques---
 title: Captchas
 description: Learn about the reasons a bot might be presented a captcha, the best ways to avoid CAPTCHASs in the first place, and how to programmatically solve them.
 sidebar_position: 5
